@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questions</key>
+	<array>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>¿Es la bandera de Italia?</string>
+			<key>answer</key>
+			<false/>
+			<key>image</key>
+			<string>bandera</string>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>Cada vez que Beethoven se sentaba a escribir música, se ponía agua fría sobre la cabeza</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>La base de la Gran Pirámide de Egipto equivale en tamaño a 10 campos de fútbol</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>El yoyo primero se uso como arma en Asia</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Un metro cuadrado de césped produce suficiente oxigeno para una persona por todo el año</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los osos polares son zurdos</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Una gota de petróleo puede convertir 25L de agua potable en no potable</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los ojos humanos son de diferente tamaño</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los mosquitos tienen dientes</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>Cervantes y Shakespeare murieron el mismo día</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>Las pameras nacieron por primera vez en el polo norte</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Si divides el número de abejas hembra entre el de abejas macho de un panal, se obtiene el número de oro</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los ojos de un hamster se pueden caer si se le cuelga cabeza abajo</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los escorpiones son los únicos animales que se suicidan cuando no pueden escapar de una situación de peligro</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>Edison, el inventor de la bombilla, temía a la oscuridad</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Un Koala necesita beber al menos una vez al día</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Se puede afeitar el bigote a un gato sin ningún problema</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>La semilla de la manzana contiene cianuro y es tóxica</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>Los humanos son los únicos seres vivos que practican el sexo por placer</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>variedades</string>
+			<key>question</key>
+			<string>El caballito de mar es tan fiel a su pareja, que cuando uno muere, el otro también lo hace al poco tiempo</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>tema</key>
+			<string>historia</string>
+			<key>question</key>
+			<string>El Vaticano tiene la cantidad de dinero suficiente para acabar con la pobreza mundial dos veces</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

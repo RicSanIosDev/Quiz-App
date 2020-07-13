@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  05-Quiz App
+
+  Created by Ricardo Sanchez on 7/2/20.
+  Copyright © 2020 Ricardo Sanchez. All rights reserved.
+*/
+//titulo del Popup de Game Over
+"game.over.title" = "Fin de la partida";
+"game.over.message1" = "Haz Hacertado";
+"game.over.message2" = "Prueba otra vez";
